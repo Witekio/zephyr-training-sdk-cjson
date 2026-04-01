@@ -1,0 +1,4 @@
+config CJSON
+   bool "ENable cjson"
+   help
+       "Enable the CJSON library"
